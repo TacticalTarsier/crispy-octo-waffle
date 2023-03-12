@@ -42,6 +42,6 @@
 
 Решения различных задач из курса [Симулятор ML](https://karpov.courses/simulator-ml)
 
-['Small projects'](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/Small%20projects)
+[`Small projects`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/Small%20projects)
 
 Небольшие проекты
