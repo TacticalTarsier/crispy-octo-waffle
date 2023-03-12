@@ -24,7 +24,7 @@
 
 [`A-A, A-B tests`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/A-A%2C%20A-B%20tests)
 
-Проверки гипотез, систем сплитования
+Проверки стат. значимости гипотез, корректности работы систем сплитования
 
 [`Airflow`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/Airflow)
 
