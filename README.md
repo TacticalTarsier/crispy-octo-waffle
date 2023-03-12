@@ -36,7 +36,11 @@
 
 [`Large projects`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/Large%20projects)
 
-Относительно большие объёкты. Описание проектов в README 
+Относительно большие объёкты.
+
+В решении данных проектов применяются различные библиотеки, с помощью которых производится анализ данных и их визуализация, а также проверка гипотез на стат. значимость
+
+Описание проектов в README папки
 
 [`MLE Sim`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/MLE%20Sim)
 
@@ -44,4 +48,4 @@
 
 [`Small projects`](https://github.com/TacticalTarsier/crispy-octo-waffle/tree/main/Small%20projects)
 
-Небольшие проекты
+Небольшие проекты, связанные с обработкой и визуализацией данных.
