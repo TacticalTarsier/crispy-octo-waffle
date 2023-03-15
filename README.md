@@ -7,7 +7,7 @@
  1. Python
   - Анализ данных: Pandas, Numpy
   - Визуализация: Matplotlib, Seaborn, Plotly
-  - Провека гипотез: SciPy
+  - Провека гипотез: SciPy, Statsmodels
   - Машинное обучение: Scikit-learn
  2. SQL (HQL)
   - Clickhouse
